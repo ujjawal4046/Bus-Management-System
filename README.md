@@ -1,11 +1,11 @@
-# Bus-Management-System
-Bus Management System
+# Transport-Management-System
+Transport Management System
 
-The main display consists of basic query for source and destination wise search and other options like different search type,login and complaints which can be viewed using appropriate buttons.Whenever there is error in user input a warning is generated.A jar executable is also provided in Labproject/dist folder.
+A project on information and booking system for city transportation developed as part of software engineering curriculum. 
 
-The project has been made using NetBeans IDE and can be imported as a complete project in the IDE.The same is tested in Java 8.
+The project has been made using NetBeans IDE and can be imported as a complete project in the IDE.The same is tested in Java 8.The application uses java swing based GUI toolkit for widgets
 
-The application has been tested for different invalid inputs and corresponding warnings were generated and checked.The application consists of 2 test cases namely Kharagpur(small) and Indore(large).
+The application has been tested for different invalid inputs and corresponding warnings were generated and checked.The application consists of 2 test cases namely Kharagpur(small database) and Indore(large database).
 
 Sample Screenshots:
 ![Screenshot](https://cloud.githubusercontent.com/assets/19302249/24775234/901db74e-1b39-11e7-81d7-96e84e85467c.png)
